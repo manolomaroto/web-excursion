@@ -13,6 +13,16 @@ h1 {
     color: #fff;
 }
 
+.main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-container video {
+    width: 30%;
+}
+
 .download-link {
     color: aquamarine;
     font-size: 16px;
