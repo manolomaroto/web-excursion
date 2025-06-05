@@ -20,14 +20,22 @@ p {
     color: gray;
 }
 
-.main-container {
+footer {
+    text-align: end;
+}
+
+.content-container {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.main-container video {
+.content-container video {
     width: 30%;
+}
+
+.content-container .cell-phone {
+    padding-top: 30px;
 }
 
 .download-link {
