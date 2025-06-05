@@ -4,6 +4,10 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+.container {
+    width: 100%;
+}
+
 h1 {
     font-size: 50px;
     color: #fff;
